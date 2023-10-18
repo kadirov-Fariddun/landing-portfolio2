@@ -7,5 +7,9 @@ small landing page №2
 ## libs
 - **Jquery 3.6.1**
 - **slick.js**
+- **modernizr.js**
+## Frameworks
+- **bootstrap 5**
+- **sass,scss**
 ## Author
 (2022) Kadirov Fariddun
